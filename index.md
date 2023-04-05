@@ -25,7 +25,7 @@ Traversal(start):
 		If next_node is not yet visited:
 			Visit next_node
 			For each unvisited neighbor node of next_node: 
-add neighbor node to to_visit
+                add neighbor node to to_visit
 ```
 
 Here is a link to the only other relevant file in my repository, my [README](README.md).
