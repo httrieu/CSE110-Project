@@ -28,6 +28,8 @@ Traversal(start):
 add neighbor node to to_visit
 ```
 
+Here is a link to the only other relevant file in my repository, my [README](README.md).
+
 ### My Interests
 
 I am an avid video game player. My top three games are as follows (and often switch order):
@@ -40,3 +42,16 @@ My favorite video game character is probably Geralt, whose famous line is,
 > "If I'm to choose between one evil and another, then I prefer not to choose at all.”
 
 I also play some online games. Most notably *Counter Strike: Global Offensive*, and *League of Legends*. I am not particularly good at either but if you want to find me on Steam [here](https://steamcommunity.com/id/TheBoxFox1234/) is my profile, and [here](https://www.op.gg/summoners/na/thepoonpoon) is my OP.GG for *LoL*. 
+
+Along with games, I regularly go to the gym and rock climb often. Currently I have achieved the following difficulties while climbing:
+
+- [x] V1
+- [x] V2
+- [x] V3
+- [x] V4
+- [ ] V5 (Work in Progress)
+
+### My Skills
+
+Other than those programming languages, I am a hardworker and team player. While I have not worked in the actual industry, I do have experience working for Bed Bath and Beyond which forced me to work as team with my other coworkers. I feel that those skills I learned while working there will become extremely applicable when I begin to work in software development.
+
